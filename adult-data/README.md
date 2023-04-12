@@ -2,7 +2,6 @@
 This dataset contains demographic data which was extracted from the 1994 Census database.
 
 This analysis answers following questions:
-*Ho
 -How many people of each race are represented in this dataset?
 -What is the average age of men?
 *What is the percentage of people who have a Bachelor's degree?
