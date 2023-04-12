@@ -1,4 +1,4 @@
-# Data Analysis in Python
+# Data Analysis in Python with Pandas
 
 This repository contains projects done for FreeCodeCamp.org's Data Analysis With Python Certification.
 
