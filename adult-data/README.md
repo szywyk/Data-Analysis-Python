@@ -2,8 +2,9 @@
 This dataset contains demographic data which was extracted from the 1994 Census database.
 
 This analysis answers following questions:
-*How many people of each race are represented in this dataset?
-*What is the average age of men?
+*Ho
+-How many people of each race are represented in this dataset?
+-What is the average age of men?
 *What is the percentage of people who have a Bachelor's degree?
 *What percentage of people with advanced education (Bachelors, Masters, or Doctorate) make more than 50K?
 *What percentage of people without advanced education make more than 50K?
