@@ -1,5 +1,5 @@
 ## Demographic data analysis
-Link to this code in Google Colab: <https://colab.research.google.com/drive/1LJs288qbzvseZi_bTDakvDOUjDLkL9Co#scrollTo=mRuMYJz-fCel>
+Link to the code at Google Colab: <https://colab.research.google.com/drive/1LJs288qbzvseZi_bTDakvDOUjDLkL9Co>
 
 This dataset contains demographic data which was extracted from the 1994 Census database.
 
