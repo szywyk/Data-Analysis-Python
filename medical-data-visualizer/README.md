@@ -1,5 +1,5 @@
 ## Medical data visualizer
-Link to the code in Google Colab: <https://colab.research.google.com/drive/1FjgT3G4Ia_Kk8SVjEB96P7hnjDXWtu1j?usp=sharing>
+Link to the code at Google Colab: <https://colab.research.google.com/drive/1FjgT3G4Ia_Kk8SVjEB96P7hnjDXWtu1j>
 
 This dataset contains medical data, which was collected during medical examinations. The rows in the dataset represent patients and the columns represent information like body measurements, results from various blood tests, and lifestyle choices.
 
