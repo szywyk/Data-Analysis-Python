@@ -12,4 +12,4 @@ This analysis answers following questions:
 * What is the minimum number of hours a person works per week?
 * What percentage of the people who work the minimum number of hours per week have a salary of more than 50K?
 * What country has the highest percentage of people that earn >50K and what is that percentage?
-* What is the most popular occupation for those who earn >50K in India.
+* What is the most popular occupation for those who earn >50K in India?
