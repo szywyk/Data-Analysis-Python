@@ -5,7 +5,7 @@ Below are descriptions of all projects.
 
 ---
 ## Demographic data analysis
-Link to this code in Google Colab: <https://colab.research.google.com/drive/1LJs288qbzvseZi_bTDakvDOUjDLkL9Co#scrollTo=mRuMYJz-fCel>
+Link to the code at Google Colab: <https://colab.research.google.com/drive/1LJs288qbzvseZi_bTDakvDOUjDLkL9Co>
 
 This dataset contains demographic data which was extracted from the 1994 Census database.
 
@@ -22,7 +22,7 @@ This analysis answers following questions:
 
 ---
 ## Medical data visualizer
-Link to the code in Google Colab: <https://colab.research.google.com/drive/1FjgT3G4Ia_Kk8SVjEB96P7hnjDXWtu1j?usp=sharing>
+Link to the code at Google Colab: <https://colab.research.google.com/drive/1FjgT3G4Ia_Kk8SVjEB96P7hnjDXWtu1j>
 
 This dataset contains medical data, which was collected during medical examinations. The rows in the dataset represent patients and the columns represent information like body measurements, results from various blood tests, and lifestyle choices.
 
@@ -45,3 +45,10 @@ Table below explains the dataset (binary means - 0: NO, 1: YES):
 | Presence or absence of cardiovascular disease |   Target Variable   |    _cardio_   |                      binary                      |
 
 ---
+## Page Views Time Series Visualizer
+
+Link to the code at Google Colab: <https://colab.research.google.com/drive/1ZbY_aHa4oumMbHFTY816ZCM49RSgGFdA>
+
+This dataset contains time series data. Specifically, it contains the number of page views each day on the freeCodeCamp.org forum from 2016-05-09 to 2019-12-03.
+
+Data visualizations help in understanding the patterns in visits and identify yearly and monthly growth of the freeCodeCamp.org forum.
