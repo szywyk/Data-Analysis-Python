@@ -3,6 +3,7 @@ This repository contains projects done for FreeCodeCamp.org's Data Analysis With
 
 Below are descriptions of all projects.
 
+---
 ## Demographic data analysis
 Link to this code in Google Colab: <https://colab.research.google.com/drive/1LJs288qbzvseZi_bTDakvDOUjDLkL9Co#scrollTo=mRuMYJz-fCel>
 
@@ -19,6 +20,7 @@ This analysis answers following questions:
 * What country has the highest percentage of people that earn >50K and what is that percentage?
 * What is the most popular occupation for those who earn >50K in India.
 
+---
 ## Medical data visualizer
 Link to the code in Google Colab: <https://colab.research.google.com/drive/1FjgT3G4Ia_Kk8SVjEB96P7hnjDXWtu1j?usp=sharing>
 
@@ -41,3 +43,5 @@ Table below explains the dataset (binary means - 0: NO, 1: YES):
 |                 Alcohol intake                |  Subjective Feature |     _alco_    |                      binary                      |
 |               Physical activity               |  Subjective Feature |    _active_   |                      binary                      |
 | Presence or absence of cardiovascular disease |   Target Variable   |    _cardio_   |                      binary                      |
+
+---
